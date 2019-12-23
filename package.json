@@ -25,6 +25,7 @@
         "vuepress": "^1.2.0"
     },
     "dependencies": {
-        "core-js": "^3.6.0"
+        "core-js": "^3.6.0",
+        "funding": "^1.0.9"
     }
 }
